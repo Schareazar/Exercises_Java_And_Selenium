@@ -13,22 +13,14 @@ public class TextRepeater {
         System.out.println("This will repeat provided word n times \nProvide a word to be repeated");
         String wordToRepeat = scanner.nextLine();
         System.out.println("Provide number of times for word to be repeated");
-        int timesToRepeat = Integer.parseInt(scanner.nextLine());
+        int timesToRepeat = scanner.nextInt();
 
         repeatWord(wordToRepeat, timesToRepeat);
     }
 
     private static void repeatWord(String wordToRepeat, int timesToRepeat) {
-
-        int i = 0;
-
-        do {
-            if (timesToRepeat > 0) {
-                System.out.println(wordToRepeat);
-                i++;
-            }
-            else break;
+        for (int i = 0; i < timesToRepeat; i++) {
+            System.out.println(wordToRepeat);
         }
-        while (i < timesToRepeat);
     }
 }
