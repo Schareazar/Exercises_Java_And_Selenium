@@ -22,6 +22,9 @@ public class Main {
         //TemperatureConverter.start();
         //Zadanie_5.solution(new int[] {1,2,3,4,4,5});
         //Zadanie_6.solution(new int[] {1,2,3,4});
-        SmallestNumberThatCanBeDividedBy3And7.get();
+        //SmallestNumberThatCanBeDividedBy3And7.get();
+        //ReverseText.solution("abcdef");
+        //SplitNegativeAndPositiveNumbers.solution(new int[] {-5,-2,0,1,2,3,4,5});
+        NumberGuesser.start();
     }
 }
