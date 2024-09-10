@@ -20,6 +20,8 @@ public class Main {
         //System.out.println(Arrays.toString(Zadanie_4.solution(new int[]{2, 2, 2}, new int[]{3, 5, 12})));
         //PasswordVerification.verify();
         //TemperatureConverter.start();
-        Zadanie_5.solution(new int[] {1,2,3,4,4,5});
+        //Zadanie_5.solution(new int[] {1,2,3,4,4,5});
+        //Zadanie_6.solution(new int[] {1,2,3,4});
+        SmallestNumberThatCanBeDividedBy3And7.get();
     }
 }
