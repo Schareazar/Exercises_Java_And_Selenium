@@ -26,7 +26,8 @@ public class Main {
         //ReverseText.solution("abcdef");
         //SplitNegativeAndPositiveNumbers.solution(new int[] {-5,-2,0,1,2,3,4,5});
         //NumberGuesser.start();
-        Zadanie_9.solution(new int[]{5, 7, 8, 22, 3, 4}, 8);
+        //Zadanie_10.solution(new int[]{5, 7, 8, 5, 5, 7, 22, 3, 4}, 5);
+        Zadanie_12.solution(new int[]{5, 7, 8, 5, 7, 22, 22, 3, 4, -7});
 
     }
 }
