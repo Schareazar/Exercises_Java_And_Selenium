@@ -4,8 +4,9 @@ public class Main {
     public static void main(String[] args) {
         //Zadanie_14.solution(new int[]{1, 7, 2, 4, 2, 15, 7, 3});
         //Zadanie_15.solution(new int[]{1, 2, 3, 4, 5, 6, 7, 8}, 5);
-        //Zadanie_17.solution(new int[]{1, 2, 4, 4, 5, 6, 8, 10});
-        //Zadanie_18.solution(new int[]{1,2,3,4,5},5,22);
-        Zadanie_19.solution(new char[]{'a', 'c', 'c', 'u', 'a', 'd', 'd'});
+        //Zadanie_20.solution(new int[]{1, 2, 4, 4, 5, 5, 8, 5});
+        //Zadanie_21.solution(new int[]{1, 4, 10, 5, 8, 2, 3, 20, 22}, 5);
+        //Zadanie_19.solution(new char[]{'a', 'c', 'c', 'u', 'a', 'd', 'd'});
+        Zadanie_22.solution(new int[] {0,1,1,1,1,0,1,0,0,0,1});
     }
 }
