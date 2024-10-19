@@ -9,6 +9,8 @@ public class Main {
         //Zadanie_19.solution(new char[]{'a', 'c', 'c', 'u', 'a', 'd', 'd'});
         //Zadanie_22.solution(new int[] {0,1,1,1,1,0,1,0,0,0,1});
         //Zadanie_24.solution("Cośtam głupiego", 2);
-        Zadanie_26.solution("Warzewo", "ewo");
+        //Zadanie_26.solution("Warzewo", "ewo");
+        //Zadanie_28.solution("Cośtam niezbyt mądrego", "niezbyt", "bardzo");
+        Zadanie_30.solution("Szybki brązowy lis przeskakuje nad leniwym psem");
     }
 }
