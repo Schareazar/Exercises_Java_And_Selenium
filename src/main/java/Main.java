@@ -11,6 +11,7 @@ public class Main {
         //Zadanie_24.solution("Cośtam głupiego", 2);
         //Zadanie_26.solution("Warzewo", "ewo");
         //Zadanie_28.solution("Cośtam niezbyt mądrego", "niezbyt", "bardzo");
-        Zadanie_30.solution("Szybki brązowy lis przeskakuje nad leniwym psem");
+        //Zadanie_32.solution("Szyyyybbkkkii");
+        Zadanie_34_Bonus2.solution(5);
     }
 }
